@@ -22,3 +22,4 @@ function addEventListener(ctor, handler) {
     }
 }
 exports.addEventListener = addEventListener;
+//# sourceMappingURL=index.js.map
