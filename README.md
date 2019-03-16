@@ -4,7 +4,13 @@ Data bridge is a performant, type-safe library designed for cross-component comm
 
 ## Features
 
-- Lightweight and performant
+- Lightweight
+- Performant
 - Headless
 - Client-side
 - Extensible
+
+## Requirements
+
+- A browser
+- ES6
